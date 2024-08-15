@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vconcept
+- 👋 Hi, I’m @Layion
 - 👀 I’m interested in softwares and hardwares and binding them together to achieve desired purposes
 - 🌱 I’m currently learning software engineering and building some prototypes
 - 💞️ I’m looking to collaborate on embedded systems designers 
